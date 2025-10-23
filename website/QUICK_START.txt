@@ -1,0 +1,74 @@
+==============================
+WinSnipTool Website - Quick Start
+==============================
+
+VIEWING THE WEBSITE:
+--------------------
+
+1. Double-click index.html
+   OR
+2. Right-click index.html > Open With > Your browser
+   OR  
+3. Drag index.html into browser window
+
+CURRENT STATUS:
+---------------
+
+✓ Website is functional and ready to view
+✓ All code is in single index.html file
+✓ Uses Tailwind CSS from CDN (requires internet)
+✓ 3 of 6 gallery images are present
+
+GALLERY IMAGES STATUS:
+----------------------
+
+Windows Versions:
+  ✓ image1_2000.png    - Windows 2000 About dialog
+  ✓ image2_xp.png      - Windows XP About dialog
+  ✗ image3_2003.png    - MISSING (needs Server 2003 screenshot)
+
+Control Panel / Settings:
+  ✓ cp1.png            - Main toolbar
+  ✗ cp2.png            - MISSING (needs Settings screenshot)
+  ✗ cp3.png            - MISSING (needs Advanced tab screenshot)
+
+WHAT YOU'LL SEE:
+----------------
+
+✓ Professional 2005-style Windows Update design
+✓ Blue gradient theme with glossy buttons
+✓ Fixed sidebar navigation
+✓ Working gallery with lightbox viewer
+✓ Collapsible help sections (accordions)
+✓ Mobile responsive layout
+✓ Smooth animations and transitions
+
+For missing images, you'll see gray placeholder boxes.
+
+ADDING MISSING IMAGES:
+----------------------
+
+Take screenshots of:
+1. WinSnipTool running on Windows Server 2003
+2. Settings dialog showing General tab
+3. Settings dialog showing Advanced tab
+
+Save as:
+- image3_2003.png (Server 2003 screenshot)
+- cp2.png (Settings General tab)
+- cp3.png (Settings Advanced tab)
+
+Place PNG files in website\ folder, refresh browser.
+
+DEPLOYMENT:
+-----------
+
+Upload entire website\ folder to web host:
+- All .png files
+- index.html
+
+No server-side processing needed.
+Works on any static web host.
+
+==============================
+

@@ -1,0 +1,50 @@
+==============================
+Missing Images for Website
+==============================
+
+The following images are referenced in index.html but not yet created.
+Add these screenshots to complete the gallery:
+
+REQUIRED IMAGES:
+----------------
+
+1. image3_2003.png
+   Description: WinSnipTool on Windows Server 2003
+   Suggested content: Screenshot showing the app running on Server 2003
+
+2. cp2.png
+   Description: Settings Panel
+   Suggested content: Screenshot of the Settings dialog window
+
+3. cp3.png
+   Description: Advanced Options
+   Suggested content: Screenshot of Advanced tab in Settings
+
+CURRENT IMAGES:
+---------------
+
+✓ banner_main.png      - Main header banner (980×180)
+✓ icon.png             - WinSnipTool icon (96×96)
+✓ image1_2000.png      - Windows 2000 screenshot
+✓ image2_xp.png        - Windows XP screenshot
+✓ cp1.png              - Toolbar/main interface
+
+NOTES:
+------
+
+- Images will show placeholder boxes if missing
+- The website will still function without these images
+- Recommended size: At least 800×600 for screenshots
+- Format: PNG preferred for quality
+
+TO ADD IMAGES:
+--------------
+
+1. Take screenshots of WinSnipTool on Windows Server 2003
+2. Capture Settings dialog (General tab)
+3. Capture Settings dialog (Advanced tab)
+4. Save as PNG files with exact names above
+5. Place in website\ folder
+
+==============================
+
